@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.botoesataque{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ gap: 15px;
+ margin: 10px;
+ justify-content: space-evenly;
+}
+
+#sec1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+
+#sec2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+}
+
+#sec3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+}
+
+#sec4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+}
+
+#sec5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+}
+
+.passadatutorial{
+max-width: 100%;
+height: auto;
+margin: 10px;
+padding: 10px;
+border-radius: 30px;
+border-style: solid;
+}
+
+img {
+max-width: 100%;
+height: auto;
+}

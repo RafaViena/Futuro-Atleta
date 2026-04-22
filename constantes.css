@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.imagemlogo{
+    width: 80px;
+    height: 80px;
+}
+
+.header{
+    font-family: Arial;
+}
+
+.botoes{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ gap: 15px;
+ margin: 10px;
+ justify-content: space-evenly;
+}
+
+footer{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    font-family: arial;
+    color: antiquewhite;
+    padding-top: 5px;
+    margin-top: 20px;
+}

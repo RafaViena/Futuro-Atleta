@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#secsq1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+
+#secsq2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+#secsq3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+#secsq4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+#secsq5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 15px;
+    size-adjust: auto;
+}
+
+
+.saquetutorial{
+max-width: 100%;
+height: auto;
+margin: 10px;
+padding: 10px;
+border-radius: 30px;
+border-style: solid;
+}
+
